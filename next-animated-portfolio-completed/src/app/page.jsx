@@ -24,7 +24,7 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-          From responsive frontends to powerful backends, I specialize in crafting seamless, high-performance web applications. Whether it's designing intuitive user interfaces or architecting scalable server-side solutions, I combine creativity with technical precision to deliver digital products that are fast, functional, and built to last.
+          From responsive frontends to powerful backends, I specialize in crafting seamless, high-performance web applications. Whether it is designing intuitive user interfaces or architecting scalable server-side solutions, I combine creativity with technical precision to deliver digital products that are fast, functional, and built to last.
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">

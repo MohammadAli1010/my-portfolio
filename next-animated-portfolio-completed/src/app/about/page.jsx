@@ -45,7 +45,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-            "Writing clean code, building cool stuff, and occasionally wondering why it worked on my machine"
+            Writing clean code, building cool stuff, and occasionally wondering why it worked on my machine
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
