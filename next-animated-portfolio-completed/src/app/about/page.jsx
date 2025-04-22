@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">About Me!</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Hey there! I am Mohammad Ali — not the boxer (though I do throw punches at bugs in my code). I'm a Full-Stack Developer who enjoys building websites that not only look good but also actually work. From pixel-perfect frontends to solid backends, I handle both sides like a good espresso — strong and balanced.
+            Hey there! I am Mohammad Ali — not the boxer, though I do throw punches at bugs in my code. I'm a Full-Stack Developer who enjoys building websites that not only look good but also actually work. From pixel-perfect frontends to solid backends, I handle both sides like a good espresso — strong and balanced.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
