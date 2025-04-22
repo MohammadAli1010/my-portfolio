@@ -447,6 +447,11 @@ const AboutPage = () => {
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
                     Vanderbilt University
                   </div>
+                  <Link href="https://drive.google.com/drive/folders/1pQNIm71NUZWshlokYtseOJW5MZyCLCDp?usp=drive_link">
+                  <div className="p-1 rounded bg-white text-sm font-semibold w-fit mt-4">
+                    More!
+                  </div>
+                  </Link>
                 </div>
                 {/* CENTER */}
                 <div className="w-1/6 flex justify-center">
