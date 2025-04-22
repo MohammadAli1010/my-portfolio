@@ -33,9 +33,11 @@ const Homepage = () => {
               Resume
             </button>
             </Link>
+            <Link href="/contact">
             <button className="p-4 rounded-lg ring-1 ring-black">
               Contact Me
             </button>
+            </Link>
             
           </div>
         </div>
