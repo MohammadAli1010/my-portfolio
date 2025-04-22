@@ -25,7 +25,7 @@ const items = [
     id: 3,
     color: "from-violet-300 to-purple-300",
     title: "SnapNote",
-    desc: "SnapNote makes note-taking lightning fast. Snap down ideas, tasks, or study notes with instant autosave and intuitive formatting tools. Designed for speed and simplicity, it’s perfect for students, creators, and anyone who thinks on their feet.",
+    desc: "SnapNote makes note-taking lightning fast. Snap down ideas, tasks, or study notes with instant autosave and intuitive formatting tools. Designed for speed and simplicity, it is perfect for students, creators, and anyone who thinks on their feet.",
     img: "/notesapp.webp",
     link: "https://github.com/MohammadAli1010",
   },
