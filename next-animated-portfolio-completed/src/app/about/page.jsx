@@ -3,6 +3,7 @@ import Brain from "@/components/brain";
 import { motion, useInView, useScroll } from "framer-motion";
 import Image from "next/image";
 import { useRef } from "react";
+import Link from "next/link";
 
 const AboutPage = () => {
   const containerRef = useRef();
@@ -361,9 +362,11 @@ const AboutPage = () => {
                 {/* LEFT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
+                  <Link href="/Certi1.pdf">
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
                     Intelligence Tools for the Digital Age
                   </div>
+                  </Link>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
                   in-depth exploration of modern tools and technologies{" "}
@@ -403,9 +406,11 @@ const AboutPage = () => {
                 {/* RIGHT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
+                  <Link href="/Certi2.pdf">
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
                     Full Stack through MERN
                   </div>
+                  </Link>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
                   built dynamic, full-featured web applications using the MERN stack{" "}
@@ -425,9 +430,11 @@ const AboutPage = () => {
                 {/* LEFT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
+                  <Link href="Certi3.pdf">
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
                   Prompt Engineering for ChatGPT{" "}
                   </div>
+                  </Link>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
                   Crafted effective prompts for leveraging the full capabilities of ChatGPT{" "}
