@@ -32,10 +32,10 @@ const items = [
   {
     id: 4,
     color: "from-purple-300 to-red-300",
-    title: "Spotify Music App",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    link: "https://github.com/MohammadAli1010",
+    title: "VirtuWalls",
+    desc: "Virtuwalls is an innovative interior design studio that harnesses the power of virtual reality (VR) to revolutionize how homeowners and businesses envision and customize their spaces.",
+    img: "/virtuwalls.jpg",
+    link: "https://imginn.com/virtuwalls/",
   },
 ];
 
